@@ -1,4 +1,4 @@
-# Personal portfolio v2
+# Personal Portfolio v2
 
 ## Overview
 
