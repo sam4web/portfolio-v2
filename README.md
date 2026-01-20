@@ -4,7 +4,7 @@
 
 The second iteration of my personal portfolio, featuring a modern design and expanded content to showcase my evolution as a Web Developer.
 
-**Live Link:** [View Live Site](https://v2.sijalmanandhar.com.np)
+**[View Live Site](https://v2.sijalmanandhar.com.np)**
 
 
 ## Features
