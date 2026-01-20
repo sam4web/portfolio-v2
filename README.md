@@ -2,29 +2,21 @@
 
 ## Overview
 
-This is the second iteration of my personal website, designed to showcase my skills, projects, and experiences. This version includes enhanced features, improved design, and additional content to provide a comprehensive view of my professional profile.
+The second iteration of my personal portfolio, featuring a modern design and expanded content to showcase my evolution as a Web Developer.
+
+**Live Link:** [View Live Site](https://v2.sijalmanandhar.com.np)
+
 
 ## Features
-
-- **Minimalist Design:** Clean and straightforward user experience.
-- **Project Showcase:** Highlights key projects with descriptions and links.
-- **About Me:** Introduction to my background and skills.
-- **Contact Information:** Basic details for reaching out.
-- **Resume Download:** PDF download option.
+* **Modern UI:** Updated aesthetic with a vibrant red accent theme.
+* **Expanded Skills:** Visual icons representing a broad stack including React, Vue, Node, and Python.
+* **Service Offerings:** Sections for Web Development, UI/UX Design, and Programming.
+* **Creative Portfolio:** An organized grid showcasing a diverse range of web applications and templates.
+* **Detailed Contact:** Enhanced contact section with direct email, location, and social links.
 
 ## Technologies Used
-
-- **Frontend:** HTML5, JavaScript(ES6), [ReactJS](https://react.dev/)
-- **Styling:** SASS
-- **Deployment:** GitHub Pages
-
-## Deployment
-
-The website is deployed on GitHub Pages. Pushes to the main branch are automatically deployed.
+* ReactJS, JavaScript (ES6), SCSS, GitHub Pages.
 
 ## Contact
-
-If you have any questions or want to get in touch, feel free to contact me via the following channels:
-
-- Github: [@sam4web](https://github.com/sam4web)
-- Email: [sijal.m06@gmail.com](mailto:sijal.m06@gmail.com)
+* **GitHub:** [@sam4web](https://github.com/sam4web)
+* **Email:** [sijal.m06@gmail.com](mailto:sijal.m06@gmail.com)
